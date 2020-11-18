@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel Silvado Grisólia. Nice to meet you. 👋🏻 
 
-*I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do ❤️*
+*I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do. ❤️*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielSilvado" alt="DanielSilvado" /> </p>
 
 <p align="left">
